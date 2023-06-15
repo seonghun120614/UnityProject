@@ -7,8 +7,8 @@
 ## Requirements
 
 
-| No. | Contents | URLs | Complete | Comp. Date | Modified |
-|---|---|---|---|
+|No. |Contents |URLs |Complete | Comp. Date | Modified |
+|---|---|---|---|---|---|
 | 1 | Get started with unity | [Link](https://seonghun120614.tistory.com/153) | ✔️ | 23.06.19 | - |
 | 2 | Project:Real-time creation / Project:Essentials of real-time 3D | ❌ | - | - |
 | 3 | Project:Essentials of programming in Unity / Project:Essentials of real-time audio | ❌ | - | - |
