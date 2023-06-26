@@ -6,6 +6,7 @@
 
 ## Requirements
 
+### Week1
 
 |No. |Contents |URLs |Complete | Comp. Date | Modified |
 |---|---|---|---|---|---|
@@ -15,6 +16,25 @@
 | 4 | Project:Essentials of real-time 2D/ Project:The real-time industry | [Link](https://seonghun120614.tistory.com/159)<br>[Link](https://seonghun120614.tistory.com/160) | ✔️ | 23.06.22 | - |
 | 5 | Mission Checkpoint | | ✔️ | 23.06.22 | - |
 
+### Week2
+
+|No. |Contents |URLs |Complete | Comp. Date | Modified |
+|---|---|---|---|---|---|
+| 1 | Unit 1 - Player Control |  |  |  |  |
+| 2 | Unit 1 - Player Control |  |  |  |  |
+| 3 | Unit 2 - Basic Gameplay |  |  |  |  |
+| 4 | Unit 2 - Basic Gameplay |  |  |  |  |
+| 5 | Project |  |  |  |  |
+
+### Week3
+
+|No. |Contents |URLs |Complete | Comp. Date | Modified |
+|---|---|---|---|---|---|
+| 1 |  |  |  |  |  |
+| 2 |  |  |  |  |  |
+| 3 |  |  |  |  |  |
+| 4 |  |  |  |  |  |
+| 5 |  |  |  |  |  |
 
 ## Reference
 
