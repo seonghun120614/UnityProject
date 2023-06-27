@@ -20,9 +20,9 @@
 
 |No. |Contents |URLs |Complete | Comp. Date | Modified |
 |---|---|---|---|---|---|
-| 1 | Unit 1 - Player Control [Link](https://seonghun120614.tistory.com/162) | ✔️ | 23.06.27 |  |
-| 2 | Unit 2 - Basic Gameplay |  |  |  |  |
-| 3 | Project |  |  |  |  |
+| 1 | Unit 1 - Player Control | [Link](https://seonghun120614.tistory.com/162) | ✔️ | 23.06.27 |  |
+| 2 | Unit 2 - Basic Gameplay | [Link](https://seonghun120614.tistory.com/163) | ✔️ | 23.06.27 |  |
+| 3 | Project | [Link](https://github.com/seonghun120614/UnityProject) | ✔️ | 23.06.27 |  |
 
 ### Week3
 
