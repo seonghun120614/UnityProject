@@ -23,17 +23,35 @@ Create with Code/Prototype 1/[Bb]uild/
 Create with Code/Prototype 1/[Bb]uilds/
 Create with Code/Prototype 1/[Ll]ogs/
 Create with Code/Prototype 1/[Uu]ser[Ss]ettings/
+Create with Code/Prototype 2/[Ll]ibrary/
+Create with Code/Prototype 2/[Tt]emp/
+Create with Code/Prototype 2/[Oo]bj/
+Create with Code/Prototype 2/[Bb]uild/
+Create with Code/Prototype 2/[Bb]uilds/
+Create with Code/Prototype 2/[Ll]ogs/
+Create with Code/Prototype 2/[Uu]ser[Ss]ettings/
+Create with Code/Personal Project/[Ll]ibrary/
+Create with Code/Personal Project/[Tt]emp/
+Create with Code/Personal Project/[Oo]bj/
+Create with Code/Personal Project/[Bb]uild/
+Create with Code/Personal Project/[Bb]uilds/
+Create with Code/Personal Project/[Ll]ogs/
+Create with Code/Personal Project/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 My project/[Mm]emoryCaptures/
 2D Casual/[Mm]emoryCaptures/
 Create with Code/Prototype 1/[Mm]emoryCaptures/
+Create with Code/Prototype 2/[Mm]emoryCaptures/
+Create with Code/Personal Project/[Mm]emoryCaptures/
 
 # Recordings can get excessive in size
 My project/[Rr]ecordings/
 2D Casual/[Rr]ecordings/
 Create with Code/Prototype 1/[Rr]ecordings/
+Create with Code/Prototype 2/[Rr]ecordings/
+Create with Code/Personal Project/[Rr]ecordings/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
@@ -42,6 +60,8 @@ Create with Code/Prototype 1/[Rr]ecordings/
 My project/[Aa]ssets/Plugins/Editor/JetBrains*
 2D Casual/[Aa]ssets/Plugins/Editor/JetBrains*
 Create with Code/Prototype 1/[Aa]ssets/Plugins/Editor/JetBrains*
+Create with Code/Prototype 2/[Aa]ssets/Plugins/Editor/JetBrains*
+Create with Code/Personal Project/[Aa]ssets/Plugins/Editor/JetBrains*
 
 # Visual Studio cache directory
 .vs/
@@ -88,6 +108,8 @@ crashlytics-build.properties
 My project/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 2D Casual/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 Create with Code/Prototype 1/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+Create with Code/Prototype 2/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+Create with Code/Personal Project/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
 My project/[Aa]ssets/[Ss]treamingAssets/aa.meta
@@ -96,3 +118,7 @@ My project/[Aa]ssets/[Ss]treamingAssets/aa/*
 2D Casual/[Aa]ssets/[Ss]treamingAssets/aa/*
 Create with Code/Prototype 1/[Aa]ssets/[Ss]treamingAssets/aa.meta
 Create with Code/Prototype 1/[Aa]ssets/[Ss]treamingAssets/aa/*
+Create with Code/Prototype 2/[Aa]ssets/[Ss]treamingAssets/aa.meta
+Create with Code/Prototype 2/[Aa]ssets/[Ss]treamingAssets/aa/*
+Create with Code/Personal Project/[Aa]ssets/[Ss]treamingAssets/aa.meta
+Create with Code/Personal Project/[Aa]ssets/[Ss]treamingAssets/aa/*
