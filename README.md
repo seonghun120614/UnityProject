@@ -20,11 +20,9 @@
 
 |No. |Contents |URLs |Complete | Comp. Date | Modified |
 |---|---|---|---|---|---|
-| 1 | Unit 1 - Player Control |  |  |  |  |
-| 2 | Unit 1 - Player Control |  |  |  |  |
-| 3 | Unit 2 - Basic Gameplay |  |  |  |  |
-| 4 | Unit 2 - Basic Gameplay |  |  |  |  |
-| 5 | Project |  |  |  |  |
+| 1 | Unit 1 - Player Control [Link](https://seonghun120614.tistory.com/162) | ✔️ | 23.06.27 |  |
+| 2 | Unit 2 - Basic Gameplay |  |  |  |  |
+| 3 | Project |  |  |  |  |
 
 ### Week3
 
