@@ -30,6 +30,13 @@ Create with Code/Prototype 2/[Bb]uild/
 Create with Code/Prototype 2/[Bb]uilds/
 Create with Code/Prototype 2/[Ll]ogs/
 Create with Code/Prototype 2/[Uu]ser[Ss]ettings/
+Create with Code/Prototype 3/[Ll]ibrary/
+Create with Code/Prototype 3/[Tt]emp/
+Create with Code/Prototype 3/[Oo]bj/
+Create with Code/Prototype 3/[Bb]uild/
+Create with Code/Prototype 3/[Bb]uilds/
+Create with Code/Prototype 3/[Ll]ogs/
+Create with Code/Prototype 3/[Uu]ser[Ss]ettings/
 Create with Code/Personal Project/[Ll]ibrary/
 Create with Code/Personal Project/[Tt]emp/
 Create with Code/Personal Project/[Oo]bj/
@@ -44,6 +51,7 @@ My project/[Mm]emoryCaptures/
 2D Casual/[Mm]emoryCaptures/
 Create with Code/Prototype 1/[Mm]emoryCaptures/
 Create with Code/Prototype 2/[Mm]emoryCaptures/
+Create with Code/Prototype 3/[Mm]emoryCaptures/
 Create with Code/Personal Project/[Mm]emoryCaptures/
 
 # Recordings can get excessive in size
@@ -51,6 +59,7 @@ My project/[Rr]ecordings/
 2D Casual/[Rr]ecordings/
 Create with Code/Prototype 1/[Rr]ecordings/
 Create with Code/Prototype 2/[Rr]ecordings/
+Create with Code/Prototype 3/[Rr]ecordings/
 Create with Code/Personal Project/[Rr]ecordings/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
@@ -61,6 +70,7 @@ My project/[Aa]ssets/Plugins/Editor/JetBrains*
 2D Casual/[Aa]ssets/Plugins/Editor/JetBrains*
 Create with Code/Prototype 1/[Aa]ssets/Plugins/Editor/JetBrains*
 Create with Code/Prototype 2/[Aa]ssets/Plugins/Editor/JetBrains*
+Create with Code/Prototype 3/[Aa]ssets/Plugins/Editor/JetBrains*
 Create with Code/Personal Project/[Aa]ssets/Plugins/Editor/JetBrains*
 
 # Visual Studio cache directory
@@ -109,6 +119,7 @@ My project/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 2D Casual/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 Create with Code/Prototype 1/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 Create with Code/Prototype 2/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+Create with Code/Prototype 3/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 Create with Code/Personal Project/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
@@ -120,5 +131,7 @@ Create with Code/Prototype 1/[Aa]ssets/[Ss]treamingAssets/aa.meta
 Create with Code/Prototype 1/[Aa]ssets/[Ss]treamingAssets/aa/*
 Create with Code/Prototype 2/[Aa]ssets/[Ss]treamingAssets/aa.meta
 Create with Code/Prototype 2/[Aa]ssets/[Ss]treamingAssets/aa/*
+Create with Code/Prototype 3/[Aa]ssets/[Ss]treamingAssets/aa.meta
+Create with Code/Prototype 3/[Aa]ssets/[Ss]treamingAssets/aa/*
 Create with Code/Personal Project/[Aa]ssets/[Ss]treamingAssets/aa.meta
 Create with Code/Personal Project/[Aa]ssets/[Ss]treamingAssets/aa/*
