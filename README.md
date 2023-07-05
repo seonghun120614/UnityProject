@@ -29,8 +29,8 @@
 |No. |Contents |URLs |Complete | Comp. Date | Modified |
 |---|---|---|---|---|---|
 | 1 | Unit 3 - Sound and Effect | [Link]() | ✔️ | 23.07.04 |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
+| 2 | Unit 4 - Gameplay Mechanic | [Link]() | ✔️ | 23.07.05 |  |
+| 3 | Project |  | ✔️ | 23.07.05 |  |
 
 ### Week4
 
